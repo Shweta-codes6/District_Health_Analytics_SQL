@@ -2,10 +2,10 @@
 
 Health Services Data of Koraput's Sub-districts
 
-- The dataset contains information on the types of health care facilities and details about the services availed in the Sub-districts of Koraput in January 2021. I downloaded the dataset directly from the official government website of Odisha. 
+- The dataset includes information about the types of health care facilities and the services used in Koraput's Sub-districts during January 2021. I got this data directly from the official government website of Odisha.
 
-- The series of SQL queries in this analysis collectively yields substantial insights that holds significant relevance for Healthcare Management and Decision-making within the boundaries of the Koraput district.
+- The SQL queries I used in this analysis give us important insights that are really helpful for managing healthcare and making decisions in Koraput.
 
-P.S.: I am from Koraput District of Odisha, so this project holds special place in my heart. The experience of working on this project has broadened my understanding of the Health Care Services provided by the different facilities in Koraput and gave me unexpected dimensions of knowledge and insights that have enriched my perspective.
+P.S.: I'm from Koraput District in Odisha, so this project has a special place in my heart. Working on this project taught me a lot about the healthcare services provided by different facilities in Koraput and showered me with meaningful perspectives.
 
 Dataset Link- https://odisha.data.gov.in/resource/indicator-wise-monthly-dataset-koraput-district-odisha-jan-2021-22
