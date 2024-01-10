@@ -1,6 +1,6 @@
 # District_Health_Analytics_SQL
 
-Delving into the Health Services Data of Koraput's Sub-districts
+Health Services Data of Koraput's Sub-districts
 
 My primary aim was to understand the dynamics of healthcare facilities and service utilisation throughout the month of January in 2021-22. The series of SQL queries in this analysis collectively yields substantial insights that holds significant relevance for Healthcare Management and Decision-making within the boundaries of the Koraput district.
 
