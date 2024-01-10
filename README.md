@@ -6,7 +6,7 @@ Health Services Data of Koraput's Sub-districts
 
 - The SQL queries I used in this analysis give us important insights that are really helpful for managing healthcare and making decisions in Koraput.
 
-P.S.: I'm from Koraput District in Odisha, so this project has a special place in my heart. Working on this project taught me a lot about the healthcare services provided by different facilities in Koraput and showered me with meaningful perspectives.
+P.S.: I'm from Koraput District in Odisha, so this project has a special place in my heart. Working on this project taught me a lot about the healthcare services provided by different facilities in Koraput and showered me with multiple meaningful perspectives.
 
-Dataset Link- https://odisha.data.gov.in/resource/indicator-wise-monthly-dataset-koraput-district-odisha-jan-2021-22
+Dataset Link- https://shorturl.at/vwzLR 
 Detailed Project Description Link- https://shorturl.at/hopO6
