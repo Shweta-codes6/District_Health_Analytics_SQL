@@ -1,4 +1,4 @@
-# District_Health_Analytics_SQL
+# District_Health_Analytics
 
 Health Services Data of Koraput's Sub-districts
 
